@@ -71,6 +71,7 @@ This repo was built for my ongoing project of publishing an introductory Chinese
 分工：
 
 - 姜鹤：分层线性模型
+- 张甜甜：广义线性模型
 
 
 吕小康
